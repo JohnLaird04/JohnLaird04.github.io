@@ -88,7 +88,9 @@ remote_theme: hydecorp/hydejack@v9"
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image: /assets/img/blog/newBackground.jpeg #Mountain Goat
+#accent_image: /assets/img/blog/Background.jpeg #Mount Borah
+#accent_image:          /assets/img/sidebar-bg.jpg #Water
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

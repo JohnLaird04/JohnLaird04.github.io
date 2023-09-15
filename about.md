@@ -16,5 +16,16 @@ redirect_from:
 
 # About Me
 
-![](/assets/img/blog/aboutMe.jpeg){:.lead width="600" loading="lazy"}
-I am a computer science major at the University of Utah. When I am not coding I love the outdoors.
+![](/assets/img/blog/aboutMe.jpeg){:.lead width="1110" loading="lazy"}
+I am currently living in Salt Lake City, Utah, and I am 
+persuing my bachelor's degree in Computer Science at the University of Utah.
+When I am not coding, you will find me playing soccer or ultimate
+frisbee, hiking, or snowboarding.
+
+Since I was young I have always enjoyed being around computers.
+I loved playing video games as a kid, but as I grew up I became
+more and more fascinated with the computer itself. I became 
+obsessed with building computers and optimizing their performance
+through overclocking and undervolting. Now, after discovering Python
+in high school, I love coding and learning how to optimize the 
+software computers run.
