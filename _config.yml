@@ -76,11 +76,14 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /:num/
 
+load_paths:
+  - .
+
 
 # Theme
 # ---------------------------------------------------------------------------------------
-theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+#theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack
 
 
 # Customizaton
