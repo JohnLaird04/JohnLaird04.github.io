@@ -1,3 +1,17 @@
+GIT
+  remote: https://github.com/benbalter/jekyll-default-layout
+  revision: 340343a2ab7b1b18a45ff7c26f2937db5d28f7b5
+  specs:
+    jekyll-default-layout (0.1.5)
+      jekyll (>= 3.0, < 5.0)
+
+GIT
+  remote: https://github.com/hydecorp/jekyll-seo-tag
+  revision: 6135021410981d2d76878568e9c21cf363882bfe
+  specs:
+    jekyll-seo-tag (2.6.1)
+      jekyll (>= 3.3, < 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -5,7 +19,6 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
-    duktape (2.7.0.0)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -35,8 +48,6 @@ GEM
       webrick (~> 1.7)
     jekyll-compose (0.12.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-default-layout (0.1.5)
-      jekyll (>= 3.0, < 5.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-include-cache (0.2.1)
@@ -55,8 +66,6 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
-    jekyll-seo-tag (2.8.0)
-      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-theme-hydejack (9.1.6)
@@ -98,27 +107,25 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
+  arm64-darwin-21
   arm64-darwin-22
 
 DEPENDENCIES
-  duktape
   jekyll (~> 4.1)
   jekyll-compose
-  jekyll-default-layout
+  jekyll-default-layout!
   jekyll-feed
-  jekyll-include-cache
   jekyll-last-modified-at
   jekyll-optional-front-matter
   jekyll-paginate
   jekyll-readme-index
   jekyll-redirect-from
   jekyll-relative-links
-  jekyll-seo-tag
+  jekyll-seo-tag!
   jekyll-sitemap
   jekyll-theme-hydejack (~> 9.1)
   jekyll-titles-from-headings
   kramdown-math-katex
-  webrick
 
 BUNDLED WITH
    2.4.19
