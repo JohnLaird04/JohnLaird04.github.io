@@ -1,7 +1,6 @@
 ---
 layout: about
-image: 
-  path: /assets/img/blog/aboutMe.jpeg
+image:
   srcset:
     1920w: /assets/img/blog/aboutMe.jpeg
     960w:  /assets/img/blog/aboutMe.jpeg,5x.jpg
@@ -15,10 +14,11 @@ redirect_from:
 ---
 
 # About Me
-
 ![](/assets/img/blog/aboutMe.jpeg){:.lead width="1110" loading="lazy"}
-I am currently living in Salt Lake City, Utah, and I am 
-persuing my bachelor's degree in Computer Science at the University of Utah.
+Near the top of Mount Borah, Idaho.
+{:.figcaption}
+I am originally from Bozeman, Montana, but I am currently living in Salt Lake City, Utah to  
+pursue my bachelor's degree in Computer Science at the University of Utah.
 When I am not coding, you will find me playing soccer or ultimate
 frisbee, hiking, or snowboarding.
 

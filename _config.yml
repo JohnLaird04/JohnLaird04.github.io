@@ -42,8 +42,8 @@ keywords:              []
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                John Laird
+  email:               johnny.d.laird@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -54,7 +54,7 @@ menu:
   - title:             Blog
     url:               /posts/
   - title:             Resume
-    url:               /resume
+    url:               /assets/documents/JohnResume.pdf
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
