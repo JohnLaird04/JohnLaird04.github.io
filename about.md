@@ -14,8 +14,10 @@ redirect_from:
 ---
 
 # About Me
-![](/assets/img/blog/aboutMe.jpeg){:.lead width="1110" loading="lazy"}
-Near the top of Mount Borah, Idaho.
+![](/assets/img/blog/aboutMe.jpeg){:.lead width="700" loading="lazy"}
+
+
+Me and my dog Moose hiking in Bozeman, Montana
 {:.figcaption}
 I am originally from Bozeman, Montana, but I am currently living in Salt Lake City, Utah to  
 pursue my bachelor's degree in Computer Science at the University of Utah.
