@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-09-16
-title: Website Is Finally Working
+title: My Website Is Finally Up and Running
 description: >
   What I learned from building my first website.
 sitemap: false
@@ -32,7 +32,7 @@ built so far. So I texted my brother with my progress so far, and he asked me wh
 theme I liked from github and realized that jekyll is a 
 way better way to build websites.
 
-# Jekyll: So Much Joy, Yet So Much Pain.
+# Discovering Jekyll
 The moment I ran *bundle exec jekyll serve* in 
 terminal and my eyes gazed upon the beautiful website
 before me, my eyes lit up and my joy shot out of my body; 
