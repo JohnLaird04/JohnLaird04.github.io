@@ -2,6 +2,6 @@
 layout: list
 title: Posts
 description: >
-  A place where I record all of my projects, thoughts, and updates.
+  This is where I record all my thoughts.
 grouped: true
 ---
