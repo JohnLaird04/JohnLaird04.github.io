@@ -2,7 +2,7 @@
 layout: post
 date: 2023-09-16
 title: My Website Is Finally Up and Running
-categories: [Weekly Blogs]
+categories: [Blogs, Projects]
 description: >
   What I learned from building my first website.
 sitemap: false

@@ -29,10 +29,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    #twitter:         <username>
     github:          https://github.com/JohnLaird04
     linkedin:        john-laird
     email:           johnny.d.laird@gmail.com
+    #twitter:         <username>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
