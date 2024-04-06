@@ -21,26 +21,43 @@ Atomic Habits - James Clear
 The World's Last Night - C.S. Lewis                                            
 
 ## February
+The Richest Man in Babylon - Samuel Clason
+
+White Nights - Fyodor Dostoevsky 
+
+Reflections on the Psalms - C.S. Lewis
+
+## March
+The Psychology of Money - Morgan Housel
+
+The Book Thief - Markus Zusak
 
 # On My List
-48 Laws of Power - Robert Green
+Dune - Frank Herbert
 
-The Richest Man in Babylon - Samuel Clason
+48 Laws of Power - Robert Green
 
 1984 - George Orwell
 
-The 4-Hour Workweek - Tim Ferriss    
+All the Light We Cannot See - Anthony Doerr
 
-The Book Thief - Markus Zusak
+The 4-Hour Workweek - Tim Ferriss
+
+The Martian - Andy Weir
 
 The Second Mountain - David Brooks
 
 Twilight of the Idols - Friedrich Nietzsche
 
+The Remains of the Day - Kazuo Ishiguro
+
+Beyond Good and Evil - Friedrich Nietzsche
+
 The Stranger - Albert Camus
 
+Touching the Void - Joe Simpson
                                                            
 
 
->736 Pages Read and Counting
+>2026 Pages Read and Counting
 {:.lead}
