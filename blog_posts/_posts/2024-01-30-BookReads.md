@@ -32,32 +32,43 @@ The Psychology of Money - Morgan Housel
 
 The Book Thief - Markus Zusak
 
+## April
+The Martian - Andy Weir
+
 # On My List
-Dune - Frank Herbert
-
-48 Laws of Power - Robert Green
-
 1984 - George Orwell
-
-All the Light We Cannot See - Anthony Doerr
 
 The 4-Hour Workweek - Tim Ferriss
 
-The Martian - Andy Weir
+48 Laws of Power - Robert Green
 
-The Second Mountain - David Brooks
+All the Light We Cannot See - Anthony Doerr
 
-Twilight of the Idols - Friedrich Nietzsche
+Beyond Good and Evil - Friedrich Nietzsche
+
+Dune - Frank Herbert
+
+The Midnight Library - Matt Haig
+
+The Nightingale - Kristin Hannah
+
+The Picture of Dorian Gray - Oscar Wilde
+
+Project Hail Mary - Andy Weir
 
 The Remains of the Day - Kazuo Ishiguro
 
-Beyond Good and Evil - Friedrich Nietzsche
+The Second Mountain - David Brooks
 
 The Stranger - Albert Camus
 
 Touching the Void - Joe Simpson
-                                                           
+
+Twilight of the Idols - Friedrich Nietzsche
+
+Wuthering Heights - Emily Brontë
 
 
->2026 Pages Read and Counting
+
+>2413 Pages Read and Counting
 {:.lead}
